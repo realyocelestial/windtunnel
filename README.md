@@ -16,5 +16,6 @@ Link to Demo Video -
 <h2> Credits </h2>
   <p>Project by @Celestial, for the Hack Club Stardance Challenge</p>
   <p>AI was used as a consultant for Onshape techniques</p>
-  <p>Song used in the demonstration video: Lose My Mind by Don Toliver and Doja Cat, the F1 Movie.</p>  
-I apologize for the first 11 commit messages; I did not know what the hell I was doing. im gonna try to make better commits in the future :)
+  <p>Song used in the demonstration video: Lose My Mind by Don Toliver and Doja Cat, the F1 Movie.</p>
+
+<h6>  I apologize for the first 11 commit messages; I did not know what the hell I was doing. im gonna try to make better commits in the future :) </h6>
