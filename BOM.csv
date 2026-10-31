@@ -1,4 +1,4 @@
-dItem Name,Qty,Price (total) (USD),Item link,Notes
+Item Name,Qty,Price (total) (USD),Item link,Notes
 PLA Filament,2,27.98,https://www.amazon.com/Printer-Filament-SUNLU-Dimensional-Accuracy/dp/B07XG3RM58,"Its recommended to get 2 kilos because support/reprints/etc, technically only 1 kilo is needed but I used more than 1"
 Humidifiers,2,29.98,https://www.amazon.com/dp/B00P91ZFPA,2 for a lotttt of vapor
 Sticky Lights,1,7.59,https://www.amazon.com/dp/B0721NYMJN,Lights
@@ -7,8 +7,8 @@ Plexiglass,1,4.99,https://www.amazon.com/dp/B09Y2ZGRRB,Plexiglass for clear view
 Silicone (optional),1,24.79,https://www.amazon.com/BBDINO-Silicone-Making-15A-Clear/dp/B0F3XC9851,Silicone for plugging holes because of defects in 3d prints (optional because hot glue works too but this is just what i used)
 Tubes,1,18.99,https://www.amazon.com/dp/B0BGXVFK27,Tubing!
 Screws,1,9.99,https://www.amazon.com/Fgruh-1080PCS-Assortment-Washers-Assorted/dp/B0GHVDC8GD,Screws!
-Total Price,134.30
-Shipping: None with Amazon Prime
+Total Price,134.30,No Shipping (Amazon Prime),,
+,,,,
 ,,,,
 ,,,,
 ,,,,
