@@ -1,6 +1,7 @@
 <h1> AeroFlow - A wind tunnel to visualize the airflow around objects using water vapor! </h1>
 Link to Demo Video - 
 <img src="images/image1.png" width=200 height=200>
+<h6>Best Looking Image!!!</h6>
 <h2> Main Features </h2>
 <ul>
   <li> Works with water vapor </li>
@@ -10,11 +11,11 @@ Link to Demo Video -
   <li> A flow shape that allows you to see many parts of the aerodynamics of a car </li>
   <li> Toggleable light on top </li>
   <li> Amazing demo video! </li>
+</ul>
 
 <img src="images/image2.png" width=200 height=200>
 <h6>A demonstration of the flow!</h6>
 
-</ul>
 <h2> How I Made It: </h2>
   The 3D models were made in Onshape. Hand assembled obviously.
   The visualization works through sucking straightened water vapor through some tubes via a fan at the end of the tunnel
