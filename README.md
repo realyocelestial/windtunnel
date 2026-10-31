@@ -17,7 +17,7 @@ Link to Demo Video -
 <h6>A demonstration of the flow!</h6>
 
 <h2> How I Made It: </h2>
-  The 3D models were made in Onshape. Hand assembled obviously.
+  The 3D models were made in Onshape. Hand assembled obviously. Printed with the Creality K1.
   The visualization works through sucking straightened water vapor through some tubes via a fan at the end of the tunnel
   The car is in between the tubes and the fan.
 
