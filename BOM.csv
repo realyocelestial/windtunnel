@@ -1,10 +1,13 @@
 Item Name,Qty,Price (total) (USD),Item link,Notes
-PLA Filament,2,27.98,https://www.amazon.com/Printer-Filament-SUNLU-Dimensional-Accuracy/dp/B07XG3RM58/ref=sr_1_3?crid=1D77WYY702RRH&dib=eyJ2IjoiMSJ9.whTAUgGoUlzM7anRnCeMz_gVdzHYLCjMzc886qitZc9blFLN-S4JXjMnkLgZ94-zEvuhk7NoBOlIR2ItQmpRo12VZlbJSHpapnuXAEf1jz-d_OtSuV35HtD9-6wyDiJrAvCZR7JDNCa-9IDYdv3Xr8QCLpbr4rGuc_XnK4jLK5Ra4m9QN4D0e2_d_auX29MKlT4Qv16P8HIW6diZ0QRju-0DXWox7TuSwmHe2gkHp5g.7ghukEQCuu5p86FbMtHKGqWEmL1BljHueZurFgBXlTY&dib_tag=se&keywords=pla+filament&qid=1792984655&sprefix=pla+filament%2Caps%2C147&sr=8-3,"Its recommended to get 2 kilos because support/reprints/etc, technically only 1 kilo is needed but I used more than 1"
-Humidifiers,2,29.98,https://www.amazon.com/dp/B00P91ZFPA?ref=ppx_yo2ov_dt_b_fed_asin_title,2 for a lotttt of vapor
-Sticky Lights,1,7.59,https://www.amazon.com/dp/B0721NYMJN?ref=ppx_yo2ov_dt_b_fed_asin_title,Lights
-120mm Fan,1,9.99,https://www.amazon.com/dp/B0H8PXH5M6?ref=ppx_yo2ov_dt_b_fed_asin_title,Fan
-Plexiglass,1,4.99,https://www.amazon.com/dp/B09Y2ZGRRB?ref=ppx_yo2ov_dt_b_fed_asin_title,Plexiglass for clear viewing
-Silicone,1,24.79,https://www.amazon.com/BBDINO-Silicone-Making-15A-Clear/dp/B0F3XC9851/ref=sr_1_24?crid=20KMTJESPBSYS&dib=eyJ2IjoiMSJ9.8OmTpz5P3D6GmPgvEVTFW943CmY_w_Aep1u1kEYpp5R7rqilDfIL5VDxPynfHMTzekXybonU02po0ZhWovTeIrnCXkkUk77s2cJMT-7bGeFZ8DPMhh6Mu7YX_2o0yEZK2ijEvdo0qCkqdCMmDcTmTBHJd_naOkLLnr7Dzy0REOsfX1alXjjnoPGaYkGApvchXHg_9c5TSU2QZTeeCvJXL7Dyl6aDVSw5MxCFIPO18ansZ5f15w6GF1VgCnwHb5faxj_RcKitf2fN3-kTi1USlR8shg-uw3dfdT5kWMhrk1c.ccLyARqPk55H4kKdigvOSG9FYh7mrcb5WYQ4TfTBzis&dib_tag=se&keywords=bbdino+silicone&qid=1792985267&sprefix=bbdino+s%2Caps%2C156&sr=8-24,Silicone for plugging holes because of defects in 3d prints (optional because hot glue works too but this is just what i used)
+PLA Filament,2,27.98,https://www.amazon.com/Printer-Filament-SUNLU-Dimensional-Accuracy/dp/B07XG3RM58,"Its recommended to get 2 kilos because support/reprints/etc, technically only 1 kilo is needed but I used more than 1"
+Humidifiers,2,29.98,https://www.amazon.com/dp/B00P91ZFPA,2 for a lotttt of vapor
+Sticky Lights,1,7.59,https://www.amazon.com/dp/B0721NYMJN,Lights
+120mm Fan,1,9.99,https://www.amazon.com/dp/B0H8PXH5M6,Fan
+Plexiglass,1,4.99,https://www.amazon.com/dp/B09Y2ZGRRB,Plexiglass for clear viewing
+Silicone (optional),1,24.79,https://www.amazon.com/BBDINO-Silicone-Making-15A-Clear/dp/B0F3XC9851,Silicone for plugging holes because of defects in 3d prints (optional because hot glue works too but this is just what i used)
+Tubes,1,18.99,https://www.amazon.com/dp/B0BGXVFK27,Tubing!
+Screws,1,9.99,https://www.amazon.com/Fgruh-1080PCS-Assortment-Washers-Assorted/dp/B0GHVDC8GD,Screws!
+Total Price,105.32,,,
 ,,,,
 ,,,,
 ,,,,
@@ -16,6 +19,3 @@ Silicone,1,24.79,https://www.amazon.com/BBDINO-Silicone-Making-15A-Clear/dp/B0F3
 ,,,,
 ,,,,
 ,,,,
-,,,,
-,,,,
-Total Price (USD):,105.32,,,

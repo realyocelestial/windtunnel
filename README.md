@@ -1,5 +1,6 @@
 <h1> AeroFlow - A wind tunnel to visualize the airflow around objects using water vapor! </h1>
 Link to Demo Video - 
+<img src="images/image1.png" width=200 height=200>
 <h2> Main Features </h2>
 <ul>
   <li> Works with water vapor </li>
@@ -9,9 +10,17 @@ Link to Demo Video -
   <li> A flow shape that allows you to see many parts of the aerodynamics of a car </li>
   <li> Toggleable light on top </li>
   <li> Amazing demo video! </li>
+
+<img src="images/image2.png" width=200 height=200>
+<h6>A demonstration of the flow!</h6>
+
 </ul>
 <h2> How I Made It: </h2>
   The 3D models were made in Onshape. Hand assembled obviously.
+  The visualization works through sucking straightened water vapor through some tubes via a fan at the end of the tunnel
+  The car is in between the tubes and the fan.
+
+
 
 <h2> Credits </h2>
   <p>Project by @Celestial, for the Hack Club Stardance Challenge</p>
@@ -19,9 +28,3 @@ Link to Demo Video -
   <p>Song used in the demonstration video: Lose My Mind by Don Toliver and Doja Cat, the F1 Movie.</p>
 
 <h6>  I apologize for the first 11 commit messages; I did not know what the hell I was doing. im gonna try to make better commits in the future :) </h6>
-
-<ul> To Do</ul>
-  <li>Edit & make video </li>
-  <li>Update readme with finalizing touches, info, etc</li>
-  <li>Update BOM with tubing, screws, etc</li>
-  <li>Make instructions</li>
