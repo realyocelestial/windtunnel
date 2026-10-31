@@ -25,4 +25,3 @@ Link to Demo Video -
   <li>Update readme with finalizing touches, info, etc</li>
   <li>Update BOM with tubing, screws, etc</li>
   <li>Make instructions</li>
-  <li>Make 3D Print files</li>
