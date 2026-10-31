@@ -29,3 +29,9 @@ Link to Demo Video -
   <p>Song used in the demonstration video: Lose My Mind by Don Toliver and Doja Cat, the F1 Movie.</p>
 
 <h6>  I apologize for the first 11 commit messages; I did not know what the hell I was doing. im gonna try to make better commits in the future :) </h6>
+
+<ul> To do list 
+  <li> Take feedback for video and implement it</li>
+  <li>Update readme with finalizing touches, info, etc</li>
+  <li>Make instructions</li>
+<ul>
